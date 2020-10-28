@@ -1,1 +1,7 @@
 This is a day one of B20 class 
+
+We created a git repository on desktop called B20-Day1
+
+We added one file inside called file1.txt
+Git automacically detected the changes
+We commited these changes into local repository
