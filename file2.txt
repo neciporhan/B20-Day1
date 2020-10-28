@@ -1,1 +1,13 @@
 THIS IS A NEW FILE THAT I ADDED
+
+
+
+create a new file called file3.txt
+commit the change
+
+edit the content of file3.txt save and commit again
+
+edit both files file1.txt and file2.txt observe the change in 
+Git Hub Desktop and commit both changes in one shot
+
+more changes
